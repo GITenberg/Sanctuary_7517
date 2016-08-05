@@ -1,0 +1,37 @@
+_repo: Sanctuary_7517
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Wharton, Edith Newbold Jones
+    - Olivieri, David
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+description: In New York City's high society, Kate Orme, a young widow, struggles
+  to raise a son who will be free of the moral flaws of his father, Denis. Her son,
+  Dick, will face similar situations as his father, but can he resolve himself to
+  act morally? In this 1903 novella, Wharton's gifts for acute social and psychological
+  observation are on fine display.
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7517'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Widows -- Fiction'
+- !lcsh 'Mothers and sons -- Fiction'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Psychological fiction'
+- !lcc 'PS'
+- GITenberg
+title: Sanctuary
+url: http://www.gutenberg.org/ebooks/7517
