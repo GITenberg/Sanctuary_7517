@@ -1,5 +1,8 @@
 _repo: Sanctuary_7517
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wharton, Edith
@@ -18,6 +21,8 @@ description: In New York City's high society, Kate Orme, a young widow, struggle
   Dick, will face similar situations as his father, but can he resolve himself to
   act morally? In this 1903 novella, Wharton's gifts for acute social and psychological
   observation are on fine display.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7517#Sanctuary
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
 identifiers:
